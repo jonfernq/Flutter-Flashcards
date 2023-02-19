@@ -1,8 +1,10 @@
 ## Standard Flutter Starter App
 
-- [main.dart](https://github.com/jonfernq/Flutter-Flashcards/blob/main/FlutterLearning/Starter/main.dart): The standard starter app for Flutter. 
-Also the [starter app in Zapp!: Zapp! An online Dart & Flutter sandbox in the browser](https://zapp.run/edit/flutter?entry=lib/main.dart&file=lib/main.dart:0-4129), 
-an quick online IDE for creating apps without dealing with Flutter installation on one's own machine.
+[main.dart](https://github.com/jonfernq/Flutter-Flashcards/blob/main/FlutterLearning/Starter/main.dart): The standard starter app for Flutter. 
+Also the [starter app for Zapp!](https://zapp.run/edit/flutter?entry=lib/main.dart&file=lib/main.dart:0-4129): an online Dart & Flutter sandbox in the browser,
+a quick online IDE for quick development of Flutter apps without Flutter installation on one's own machine.
+
+### Code Explanation
 
 A simple Flutter app that displays a home page with a counter that increments every time a button is pressed. Here is a detailed explanation of the code:
 
