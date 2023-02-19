@@ -7,7 +7,7 @@ Here, the runApp() function is called to start the app, and it passes an instanc
 
 The MyApp class extends StatelessWidget and overrides the build() method to return an instance of the MaterialApp widget:
 
-```dart
+```php
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
