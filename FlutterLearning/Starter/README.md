@@ -104,6 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+```
 
 Here, the Scaffold widget has an appBar property that displays the app bar with the title passed in from the MyHomePage widget. The body property is a Center widget that contains a Column widget with two Text widgets: one is a constant string and the other is the current value of the counter. The floatingActionButton is a FloatingActionButton widget that calls the _incrementCounter() function when pressed.
 
@@ -120,7 +121,7 @@ The floatingActionButton property of the Scaffold widget is set to a FloatingAct
 Finally, the MaterialApp widget is used to configure the app's theme and provide the root widget of the app. The title parameter sets the title of the app displayed in the task switcher. The theme parameter sets the app's light theme, while the darkTheme parameter sets the app's dark theme. The home parameter is set to an instance of the MyHomePage widget, which is the initial screen of the app. The debugShowCheckedModeBanner parameter is set to false to disable the debug banner that is displayed when the app is running in debug mode.
 
 
-```
+
 
 
 
